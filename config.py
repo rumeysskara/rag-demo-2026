@@ -32,6 +32,7 @@ RERANK_CANDIDATES = 10  # RRF sonrası kaç parça gemma4'e puanlatılsın
 FINAL_TOP_K = 3
 
 # --- Üretim ayarları (tekrarlanabilirlik için) ---
-CHAT_OPTIONS = {"temperature": 0, "seed": 42}
+NUM_CTX = 8192  # bağlam penceresi (token); Ollama varsayılanı 4096
+CHAT_OPTIONS = {"temperature": 0, "seed": 42, "num_ctx": NUM_CTX}
 KEEP_ALIVE = "2h"  # modeller sunum boyunca bellekte kalsın (ilk yükleme ~30 sn)
-CHAT_THINK = False  # gemma4'ün "düşünme" modu kapalı: daha hızlı ve kısa cevap
+CHAT_THINK = False  # gemma4'ün "düşünme" modu (modelin varsayılanı açık). False: daha hızlı ve kısa cevap
