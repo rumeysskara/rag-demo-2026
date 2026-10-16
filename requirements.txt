@@ -1,0 +1,11 @@
+# Demo
+ollama==0.6.3
+chromadb==1.5.9
+rank-bm25==0.2.2
+streamlit==1.66.0
+pytest==9.1.1
+
+# Ölçüm (eval/, opsiyonel)
+ragas==0.4.3
+langchain-ollama==1.1.0
+langchain-community==0.4.1  # 0.4.2, ragas 0.4.3'ün import ettiği bir modülü kaldırdı

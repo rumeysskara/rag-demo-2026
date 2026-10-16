@@ -1,0 +1,11 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Yerel indeks (python build_index.py ile oluşturulur)
+chroma_db/
+
+# macOS
+.DS_Store

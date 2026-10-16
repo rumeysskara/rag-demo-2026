@@ -1,0 +1,30 @@
+{"question": "Onay almadan evden çalışabilir miyim?", "reference": "Hayır. Haftada 3 gün evden çalışılabilir ancak yöneticinin yazılı onayı gerekir."}
+{"question": "Haftada kaç gün evden çalışabilirim?", "reference": "Yöneticinin yazılı onayıyla haftada 3 gün evden çalışılabilir."}
+{"question": "Başka bir şehirden çalışmak istersem ne yapmalıyım?", "reference": "Türkiye içinde başka bir şehirden çalışılabilir; bu durumda İK'ya haber verilmelidir."}
+{"question": "Kullanmadığım yıllık izin sonraki yıla devreder mi?", "reference": "Kullanılmayan yıllık iznin en fazla 5 günü sonraki yıla devreder."}
+{"question": "Devreden izni ne zamana kadar kullanmalıyım?", "reference": "Devreden izin Mart sonuna kadar kullanılmalıdır; kullanılmazsa silinir."}
+{"question": "Aylık internet desteği ne kadar?", "reference": "Her ay 750 TL internet desteği bordroya eklenerek ödenir; fatura gerekmez."}
+{"question": "Ev ofisi için donanım bütçesi var mı?", "reference": "Yılda bir kez, üst sınırı 5.000 TL olan bir donanım bütçesi kullanılabilir."}
+{"question": "Çekirdek çalışma saatleri nedir?", "reference": "Çekirdek çalışma saatleri 10.00 ile 16.00 arasıdır."}
+{"question": "Haftalık çalışma süresi kaç saat?", "reference": "Haftalık çalışma süresi kırk beş saattir."}
+{"question": "Fazla mesai nasıl ücretlendirilir?", "reference": "Fazla çalışılan her saat normal saatlik ücretin yüzde elli fazlasıyla ödenir ya da bir buçuk saat serbest zaman kullanılabilir."}
+{"question": "Deneme süresi ne kadar?", "reference": "Deneme süresi iki aydır."}
+{"question": "İş teklifini kabul etmek için ne kadar sürem var?", "reference": "Teklifin kabulü için beş iş günü süre tanınır; bir kez uzatılabilir."}
+{"question": "Beş yıllık kıdemi olan biri kaç gün yıllık izin alır?", "reference": "Beş yıldan on beş yıla kadar kıdemi olanlara yirmi iş günü yıllık izin verilir; ayrıca herkese yılda iki gün ek izin tanınır."}
+{"question": "Yıllık izin talebini ne kadar önceden yapmalıyım?", "reference": "En az iki hafta önceden; beş iş gününden uzun izinler için en az bir ay önceden."}
+{"question": "Yarım gün izin kullanabilir miyim?", "reference": "Evet, yarım gün izin kullanılabilir ve yıllık izin bakiyesinden düşülür."}
+{"question": "Evlenirsem kaç gün izin alırım?", "reference": "Evlenme hâlinde üç gün ücretli mazeret izni verilir."}
+{"question": "Eşim doğum yaparsa kaç gün izin alırım?", "reference": "Eşin doğum yapması hâlinde beş gün ücretli mazeret izni verilir."}
+{"question": "Hastalık raporumu ne zamana kadar yüklemeliyim?", "reference": "Rapor tarihinden itibaren iki iş günü içinde İK sistemine yüklenmelidir."}
+{"question": "Yıllık eğitim bütçesi ne kadar?", "reference": "Her çalışan için yıllık 10.000 TL eğitim bütçesi ayrılır; kullanılmayan bütçe sonraki yıla aktarılmaz."}
+{"question": "Performans değerlendirmesi ne zaman yapılır?", "reference": "Yılda iki kez, haziran ve aralık aylarında yapılır."}
+{"question": "Ne kadar değerli hediye kabul edebilirim?", "reference": "İş ilişkisi kapsamında 1.000 TL değerini aşan hediye kabul edilemez; nakit hediye hiç kabul edilemez."}
+{"question": "Şirket bilgisayarım çalınırsa ne yapmalıyım?", "reference": "Bilgi Teknolojileri birimine yirmi dört saat içinde haber verilmelidir."}
+{"question": "Doğum günümde izin var mı?", "reference": "Doğum günü için yarım gün izin verilir; doğum gününün bulunduğu hafta içinde kullanılmalıdır."}
+{"question": "Bireysel emeklilikte şirket katkısı ne kadar?", "reference": "Şirket brüt ücretin yüzde üçü oranında, çalışanın katkısı kadar katkı payı öder."}
+{"question": "Maaşlar ne zaman yatar?", "reference": "Maaşlar her ayın son iş günü yatırılır; resmî tatile denk gelirse bir önceki iş günü ödenir."}
+{"question": "Şirketin hisse fiyatı ne?", "reference": "Dokümanlarda bu bilgi yok."}
+{"question": "Şirketin CEO'su kim?", "reference": "Dokümanlarda bu bilgi yok."}
+{"question": "Ofiste evcil hayvan getirebilir miyim?", "reference": "Dokümanlarda bu bilgi yok."}
+{"question": "Şirket araç tahsisi yapıyor mu?", "reference": "Dokümanlarda bu bilgi yok."}
+{"question": "Şirketin yıllık cirosu ne kadar?", "reference": "Dokümanlarda bu bilgi yok."}
